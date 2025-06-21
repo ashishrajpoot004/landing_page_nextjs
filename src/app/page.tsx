@@ -19,8 +19,6 @@ export default function HomePage() {
       <Footer />
     </main>
   );
-<<<<<<< HEAD
+
 };
-=======
-};
->>>>>>> c769af7458f8fd7e153396ac7b635627074adbdc
+
